@@ -5,7 +5,7 @@ Cache-wizard is a JavaScript library that provides middleware for caching data w
 
 ## Installation
 
-You can install Cache Middleware via npm:
+You can install Cache-wizard via npm:
 
 ```bash
 npm install Cache-wizard
@@ -13,7 +13,7 @@ npm install Cache-wizard
 
 ## Usage
 
-Here's a basic example of how to use Cache Middleware:
+Here's a basic example of how to use Cache-wizard:
 
 ```javascript
 const { CacheMiddleware } = require('Cache-wizard');
