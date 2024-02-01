@@ -1,4 +1,4 @@
-```markdown
+
 # Cache-wizard
 
 Cache-wizard is a JavaScript library that provides middleware for caching data with various eviction policies, cache invalidation, and cache coherency strategies.
@@ -9,7 +9,6 @@ You can install Cache Middleware via npm:
 
 ```bash
 npm install Cache-wizard
-```
 
 ## Usage
 
