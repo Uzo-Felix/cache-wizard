@@ -38,7 +38,7 @@ console.log(cache.get('key1')); // Output: null
 cache.clear();
 ```
 
-For more advanced usage and configurations, please refer to the [Advanced Usage](./examples/AdvancedUsage.js) example.
+For more advanced usage and configurations, please refer to the [Advanced Usage](../examples/AdvancedUsage.js) example.
 
 ## API
 
